@@ -3,7 +3,7 @@ A light concise webpage of a tech company using Semantic-UI library, the content
 
 ### Screenshot
 
-![](./assets/screenshot.jpg)
+![](./assets/screenshot.png)
 
 ### Run Locally
 
